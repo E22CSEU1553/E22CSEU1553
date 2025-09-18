@@ -1,4 +1,4 @@
-
+[
 
 <!--
 **E22CSEU1553/E22CSEU1553** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -87,3 +87,4 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats-e22cseu1553.vercel.app/api?username=e22cseu1553&show_icons=true&locale=en" alt="e22cseu1553" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=e22cseu1553&" alt="e22cseu1553" /></p>
+](https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg)
